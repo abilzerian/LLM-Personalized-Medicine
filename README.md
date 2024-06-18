@@ -1,4 +1,4 @@
-# Dr. Krishnakumar - Personalized Medical Guidance   
+# Personalized Medical LLM   
 
 Dr. Krishnakumar is an AI assistant designed to provide personalized medical guidance based on a user's health data and preferences. The key capabilities and limitations of the system are outlined below.
 
